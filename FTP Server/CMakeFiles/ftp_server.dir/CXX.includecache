@@ -1,0 +1,294 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liza/Документы/FTP Server/src/FileTransferMode.hpp
+
+/home/liza/Документы/FTP Server/src/FileTransferType.hpp
+
+/home/liza/Документы/FTP Server/src/FtpAuthMethod.hpp
+
+/home/liza/Документы/FTP Server/src/FtpCommand.hpp
+
+/home/liza/Документы/FTP Server/src/FtpCommandParser.cpp
+FtpCommandParser.hpp
+/home/liza/Документы/FTP Server/src/FtpCommandParser.hpp
+String.hpp
+/home/liza/Документы/FTP Server/src/String.hpp
+FtpCommand.hpp
+/home/liza/Документы/FTP Server/src/FtpCommand.hpp
+FtpAuthMethod.hpp
+/home/liza/Документы/FTP Server/src/FtpAuthMethod.hpp
+FileTransferType.hpp
+/home/liza/Документы/FTP Server/src/FileTransferType.hpp
+sys/utsname.h
+-
+
+/home/liza/Документы/FTP Server/src/FtpCommandParser.hpp
+FtpCommand.hpp
+/home/liza/Документы/FTP Server/src/FtpCommand.hpp
+FtpAuthMethod.hpp
+/home/liza/Документы/FTP Server/src/FtpAuthMethod.hpp
+FileTransferType.hpp
+/home/liza/Документы/FTP Server/src/FileTransferType.hpp
+string
+-
+vector
+-
+
+/home/liza/Документы/FTP Server/src/FtpPassiveSession.cpp
+FtpPassiveSession.hpp
+/home/liza/Документы/FTP Server/src/FtpPassiveSession.hpp
+ThreadPool.hpp
+/home/liza/Документы/FTP Server/src/ThreadPool.hpp
+FtpPassiveSessionTaskStatus.hpp
+/home/liza/Документы/FTP Server/src/FtpPassiveSessionTaskStatus.hpp
+stdio.h
+-
+vector
+-
+string
+-
+sys/utsname.h
+-
+cstdio
+-
+sched.h
+-
+iostream
+-
+memory
+-
+sstream
+-
+pwd.h
+-
+grp.h
+-
+sys/stat.h
+-
+chrono
+-
+iomanip
+-
+fstream
+-
+filesystem
+-
+time.h
+-
+
+/home/liza/Документы/FTP Server/src/FtpPassiveSession.hpp
+FtpCommand.hpp
+/home/liza/Документы/FTP Server/src/FtpCommand.hpp
+TcpClient.hpp
+/home/liza/Документы/FTP Server/src/TcpClient.hpp
+TcpListener.hpp
+/home/liza/Документы/FTP Server/src/TcpListener.hpp
+ThreadPoolTask.hpp
+/home/liza/Документы/FTP Server/src/ThreadPoolTask.hpp
+FtpPassiveSessionTask.hpp
+/home/liza/Документы/FTP Server/src/FtpPassiveSessionTask.hpp
+queue
+-
+string
+-
+mutex
+-
+
+/home/liza/Документы/FTP Server/src/FtpPassiveSessionTask.hpp
+FtpCommand.hpp
+/home/liza/Документы/FTP Server/src/FtpCommand.hpp
+FtpPassiveSessionTaskStatus.hpp
+/home/liza/Документы/FTP Server/src/FtpPassiveSessionTaskStatus.hpp
+string
+-
+filesystem
+-
+functional
+-
+
+/home/liza/Документы/FTP Server/src/FtpPassiveSessionTaskStatus.hpp
+
+/home/liza/Документы/FTP Server/src/FtpServer.cpp
+FtpServer.hpp
+/home/liza/Документы/FTP Server/src/FtpServer.hpp
+FtpSession.hpp
+/home/liza/Документы/FTP Server/src/FtpSession.hpp
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+unistd.h
+-
+string
+-
+thread
+-
+chrono
+-
+
+/home/liza/Документы/FTP Server/src/FtpServer.hpp
+TcpListener.hpp
+/home/liza/Документы/FTP Server/src/TcpListener.hpp
+ThreadPool.hpp
+/home/liza/Документы/FTP Server/src/ThreadPool.hpp
+string
+-
+thread
+-
+
+/home/liza/Документы/FTP Server/src/FtpSession.cpp
+FtpSession.hpp
+/home/liza/Документы/FTP Server/src/FtpSession.hpp
+ThreadPool.hpp
+/home/liza/Документы/FTP Server/src/ThreadPool.hpp
+FileTransferMode.hpp
+/home/liza/Документы/FTP Server/src/FileTransferMode.hpp
+FtpCommandParser.hpp
+/home/liza/Документы/FTP Server/src/FtpCommandParser.hpp
+FtpPassiveSessionTaskStatus.hpp
+/home/liza/Документы/FTP Server/src/FtpPassiveSessionTaskStatus.hpp
+stdio.h
+-
+vector
+-
+string
+-
+filesystem
+-
+sstream
+-
+functional
+-
+
+/home/liza/Документы/FTP Server/src/FtpSession.hpp
+TcpClient.hpp
+/home/liza/Документы/FTP Server/src/TcpClient.hpp
+TcpListener.hpp
+/home/liza/Документы/FTP Server/src/TcpListener.hpp
+ThreadPoolTask.hpp
+/home/liza/Документы/FTP Server/src/ThreadPoolTask.hpp
+FtpPassiveSession.hpp
+/home/liza/Документы/FTP Server/src/FtpPassiveSession.hpp
+vector
+-
+thread
+-
+string
+-
+
+/home/liza/Документы/FTP Server/src/String.cpp
+String.hpp
+/home/liza/Документы/FTP Server/src/String.hpp
+
+/home/liza/Документы/FTP Server/src/String.hpp
+string
+-
+
+/home/liza/Документы/FTP Server/src/TcpClient.cpp
+TcpClient.hpp
+/home/liza/Документы/FTP Server/src/TcpClient.hpp
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+unistd.h
+-
+string
+-
+sys/ioctl.h
+-
+
+/home/liza/Документы/FTP Server/src/TcpClient.hpp
+string
+-
+
+/home/liza/Документы/FTP Server/src/TcpListener.cpp
+TcpClient.hpp
+/home/liza/Документы/FTP Server/src/TcpClient.hpp
+TcpListener.hpp
+/home/liza/Документы/FTP Server/src/TcpListener.hpp
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+unistd.h
+-
+string
+-
+
+/home/liza/Документы/FTP Server/src/TcpListener.hpp
+TcpClient.hpp
+/home/liza/Документы/FTP Server/src/TcpClient.hpp
+
+/home/liza/Документы/FTP Server/src/ThreadPool.cpp
+ThreadPool.hpp
+/home/liza/Документы/FTP Server/src/ThreadPool.hpp
+chrono
+-
+
+/home/liza/Документы/FTP Server/src/ThreadPool.hpp
+FtpSession.hpp
+/home/liza/Документы/FTP Server/src/FtpSession.hpp
+ThreadPoolTask.hpp
+/home/liza/Документы/FTP Server/src/ThreadPoolTask.hpp
+queue
+-
+mutex
+-
+vector
+-
+thread
+-
+functional
+-
+condition_variable
+-
+
+/home/liza/Документы/FTP Server/src/ThreadPoolTask.hpp
+
+/home/liza/Документы/FTP Server/src/main.cpp
+FtpServer.hpp
+/home/liza/Документы/FTP Server/src/FtpServer.hpp
+ThreadPool.hpp
+/home/liza/Документы/FTP Server/src/ThreadPool.hpp
+iostream
+-
+string
+-
+unistd.h
+-
+sys/types.h
+-
+pwd.h
+-
+filesystem
+-
+arpa/inet.h
+-
+stdio.h
+-
+stdlib.h
+-
+signal.h
+-
+functional
+-
+

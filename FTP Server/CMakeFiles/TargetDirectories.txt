@@ -1,0 +1,3 @@
+/home/liza/Документы/FTP Server/CMakeFiles/rebuild_cache.dir
+/home/liza/Документы/FTP Server/CMakeFiles/edit_cache.dir
+/home/liza/Документы/FTP Server/CMakeFiles/ftp_server.dir
